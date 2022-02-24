@@ -1,0 +1,5 @@
+51x51
+6 (Colors)
+Coordinates|Facing Anti|Mapping
+26 26 | 0 0 | 2 1 1 0 0 2
+26 4 | 0 1 | 2 0 0 1 1 1
