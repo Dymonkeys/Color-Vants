@@ -94,7 +94,7 @@ public class Grid extends JPanel{
                 if(y==0){
                     spot.up=spaces[x][height-1];
                     spot.down=spaces[x][1];
-                } else if(y==width-1){
+                } else if(y==height-1){
                     spot.up=spaces[x][height-2];
                     spot.down=spaces[x][0];
                 } else{
